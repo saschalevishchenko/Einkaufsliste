@@ -55,7 +55,7 @@ new Vue({
         { id: 2, name: "Brot", price: 2, imageUrl: "img/Brot.jpg" },
         { id: 3, name: "Eier", price: 2.5, imageUrl: "img/Eier.jpg" },
         { id: 4, name: "Käse", price: 4, imageUrl: "img/Käse.jpg" },
-        { id: 5, name: "Butter", price: 5, imageUrl: "img/butter.jpg" },
+        { id: 5, name: "Butter", price: 5, imageUrl: "img/Butter.jpg" },
         { id: 6, name: "Saft", price: 2.5, imageUrl: "img/Saft.jpg" },
         { id: 7, name: "Kaffee", price: 5, imageUrl: "img/Kaffee.jpg" },
         { id: 8, name: "Tee", price: 1.5, imageUrl: "img/Tee.png" },
